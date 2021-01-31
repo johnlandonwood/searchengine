@@ -1,0 +1,3 @@
+/home/Owner/CS2341/search-engine-harrison-wood/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/Owner/CS2341/search-engine-harrison-wood/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Owner/CS2341/search-engine-harrison-wood/cmake-build-debug/CMakeFiles/search_engine.dir
